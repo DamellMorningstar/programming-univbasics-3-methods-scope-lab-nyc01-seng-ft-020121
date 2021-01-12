@@ -11,5 +11,13 @@ end
 
 def link
   phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase 
+  puts phrase
+end
+
+def all_phrases
+"It's Dangerous To Go Alone! Take This."
+'Thank You Mario! But Our Princess Is In Another Castle!'
+"It's-a me, Mario!"
+
+
 end
