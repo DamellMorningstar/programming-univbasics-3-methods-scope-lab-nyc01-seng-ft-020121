@@ -15,9 +15,7 @@ def link
 end
 
 def all_phrases
-"It's Dangerous To Go Alone! Take This."
-'Thank You Mario! But Our Princess Is In Another Castle!'
-"It's-a me, Mario!"
-
-
+  puts "It's-a me, Mario!"
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This."
 end
